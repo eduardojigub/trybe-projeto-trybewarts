@@ -11,6 +11,8 @@
 
 main {
   display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
 }
 
 #evaluation-form {
@@ -26,5 +28,16 @@ main {
 #form-one {
   display: flex;
   flex-wrap: wrap;
+  padding: 10px;
   width: 500px;
 }
+
+#form-two {
+  display: flex;
+  flex-direction: column;
+}
+
+#label-family {
+  display: flex;
+}
+
