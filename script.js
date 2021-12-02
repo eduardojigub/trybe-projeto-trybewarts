@@ -1,6 +1,6 @@
 // recuperar os elementos na tela
-const email = document.querySelector('#input-email');
-const password = document.querySelector('#input-password');
+const email = document.querySelector('#input-email-header');
+const password = document.querySelector('#input-password-header');
 const btnEntrar = document.querySelector('#btn-entrar');
 
 function validaLogin() {
