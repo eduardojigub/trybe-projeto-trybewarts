@@ -13,7 +13,7 @@ function validaLogin() {
 
 btnEntrar.addEventListener('click', validaLogin);
 
-// requisito 18
+// requisito 18 -
 const button = document.querySelector('#submit-btn');
 const checkbox = document.querySelector('#agreement');
 button.disabled = true;
