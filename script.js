@@ -14,15 +14,15 @@ function validaLogin() {
 btnEntrar.addEventListener('click', validaLogin);
 
 // requisito 18
-let button = document.querySelector('#submit-btn');
-let checkbox = document.querySelector('#agreement');
+const button = document.querySelector('#submit-btn');
+const checkbox = document.querySelector('#agreement');
 button.disabled = true;
 
 function buttonChecked() {
   if (this.checked) {
-    button.disabled = false; 
+    button.disabled = false;
   } else {
     button.disabled = true;
   }
-};
+}
 checkbox.addEventListener('change', buttonChecked);
