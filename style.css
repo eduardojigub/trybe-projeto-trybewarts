@@ -41,3 +41,17 @@ main {
   display: flex;
 }
 
+#footer {
+  background-color: gray;
+  color: white;
+  display: flex;
+  max-width: 100%;
+  justify-content: center;
+}
+
+#submit-btn {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+
