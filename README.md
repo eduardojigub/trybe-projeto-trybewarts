@@ -1,26 +1,28 @@
-# Projeto Dog's App
-Project developed while studying the Boostrap Library
+# Projeto Trybewarts
+Project developed while studying at Trybe bootcamp
+
+ps: This was a duo project. 
 
 ## Skills
 
 - Use HTML to build WEB pages.
 - Use semantic HTML to make your page more accessible and better ranked.
 - Use CSS to add some style and to position elements in the screen. 
-- Boostrap as main library.
+- Javascript DOM to interaction with the web page. 
 - Using icons and images.
 
 
 ## What was developed
 
-- A responsive page developed for mobile and desktop using Boostrap.
+- A page using HTML/CSS/JS
 
 ## Instructions for viewing the project:
 
 1. Download all files and open the index.html file with a browser or;
 
-2. Access through the Vercel link: https://doguinhos-bootstrap-alpha.vercel.app/
+2. Access through the Vercel link: https://trybe-projeto-trybewarts.vercel.app/
 
 ## GIF from the project:
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/47367373/185237689-cbcc4054-75a2-4020-bcf8-5cd705322d3e.gif" alt="Dogs App"/>
+  <img  src="" alt="Trybewarts App"/>
 </p>
