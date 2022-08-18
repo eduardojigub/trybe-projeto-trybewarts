@@ -24,5 +24,5 @@ ps: This was a duo project.
 
 ## GIF from the project:
 <p align="center">
-  <img  src="" alt="Trybewarts App"/>
+  <img  src="https://user-images.githubusercontent.com/47367373/185497252-2c6068f0-688b-4a7b-b40e-465e8a45cdcc.gif" alt="Trybewarts App"/>
 </p>
